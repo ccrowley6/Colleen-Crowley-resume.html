@@ -1,0 +1,63 @@
+body {
+  background-color: floralwhite;
+}
+
+
+img{
+  height: 350px;
+  width: 100%;
+}
+
+.navbar{
+  height: 40px;
+  width: 100%;
+  background-color: darkolivegreen;
+}
+
+
+h3 {
+font-family: Palatino;
+font-size: 36px;
+text-align: center;
+color: darkolivegreen;
+}
+
+
+h4{
+  font-family: arial;
+  font-size: 24px;
+  font-weight:bolder;
+  color: #383838;
+}
+
+h5 {
+  text-align: center;
+  font-family: arial;
+  font-size: 18px;
+  color: #383838;
+}
+
+p {
+  font-family: arial;
+  font-size: 18px;
+  color: #383838;
+}
+
+.Intro{
+  text-align: center;
+}
+
+
+.container {
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  max-width: 940px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+.row {
+  padding-top: 25px;
+}
